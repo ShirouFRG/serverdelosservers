@@ -1,0 +1,8 @@
+{
+    "com.mrcrayfish.backpacked.client.gui.screen.inventory.BackpackScreen": {
+        "ignore": true
+    },
+    "me.dantaeusb.zetter.client.gui.EaselScreen": {
+        "ignore": true
+    }
+}
